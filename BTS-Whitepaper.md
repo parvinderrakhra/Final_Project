@@ -20,15 +20,19 @@ The goal of the game is to unlock time travel for their faction. The faction tha
  4 Fractions are as follow - more details to follow soon.
 
  1. Amarr
+
 ![Amaar](https://user-images.githubusercontent.com/85688247/187210300-d0b8c33e-f9ee-4430-8aac-cd2c26a74385.png)
 
 2. Caldari
+
 ![Caldari](https://user-images.githubusercontent.com/85688247/187210471-db60d074-4def-4a4e-9079-7e1938473122.png)
 
 3. Gallente
+
 ![Gallente](https://user-images.githubusercontent.com/85688247/187210697-8d7f50ca-6de0-41f4-921e-98453d52b969.png)
 
 4. Minmatar
+
 ![Minmatar](https://user-images.githubusercontent.com/85688247/187210865-8d3da86d-47e5-4ab7-b406-76faf34a011a.png)
 
 
