@@ -1,2 +1,2 @@
 # Final_Project
-Born to Survive - Play to Earn Blockchian Game
+Born to Survive - Play to Earn Blockchain Game
