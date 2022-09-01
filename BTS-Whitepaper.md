@@ -1,4 +1,5 @@
-# BornToSurviveGame (BTS) 
+# BornToSurvive (BTS) - WhitePaper
+
 A Play to Earn Blockchain Game – a world class AAA P2E and PvP game/metaverse
 
 ![title](https://user-images.githubusercontent.com/85688247/187209016-8972e3c6-7b92-47de-8952-e375ed319300.png)
