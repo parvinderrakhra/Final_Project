@@ -3,6 +3,17 @@ A Play to Earn Blockchain Game – a world class AAA P2E and PvP game/metaverse
 
 ![title](https://user-images.githubusercontent.com/85688247/187209016-8972e3c6-7b92-47de-8952-e375ed319300.png)
 
+## Why Blockchain Game?
+Gaming Industry is one of the largest entertainment industries in the world, which generate more revenue than the global movie and North American sports industries combined.
+
+The gaming industry is always hungry, and with blockchain by its side, we can only see the disruption. From ownership to royalties, from finding rare items to acquiring trinkets, the 3 billion gamers worldwide are all set to get more from this technology that is capable of addressing many pain points.
+
+ Blockchain gaming uses the same technology as cryptocurrencies, including Bitcoin and Ethereum, to create true item ownership. It is seen as a boon by gamers who often get stuck with in-game entities. 
+
+Blockchain gaming technology allows gamers to customize their gaming items, develop their characters, and make them unique. They can also transfer them to other users and trade them on the platform. As a result of this unique feature, users tend to gravitate towards blockchain gaming as they can own the game assets while playing independently. 
+
+ Many rare and valuable NFTs are traded within gaming industries, exemplifying this trend. 
+
 
 ## Game Set-up
 Earth is going through multiple challenges, scarcity of food, famine, and a pandemic which wiped out half the earth’s population and is being continuously raided by aliens and extra-terrestrial life.  In order to survive they would have fight to survive and keep growing
